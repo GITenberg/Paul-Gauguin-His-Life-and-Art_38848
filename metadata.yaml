@@ -1,0 +1,28 @@
+_repo: Paul-Gauguin-His-Life-and-Art_38848
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fletcher, John Gould
+    birthdate: 1886
+    deathdate: 1950
+    gutenberg_agent_id: '32529'
+    url: http://www.gutenberg.org/2009/agents/32529
+    wikipedia: http://en.wikipedia.org/wiki/John_Gould_Fletcher
+description: ''
+gutenberg_issued: '2012-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38848'
+  lccn: '21014210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gauguin, Paul, 1848-1903'
+- !lcc 'ND'
+title: Paul Gauguin, His Life and Art
+url: http://www.gutenberg.org/ebooks/38848
