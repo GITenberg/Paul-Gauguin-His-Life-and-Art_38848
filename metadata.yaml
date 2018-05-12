@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32529
     wikipedia: http://en.wikipedia.org/wiki/John_Gould_Fletcher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38848#Paul-Gauguin-His-Life-and-Art
 gutenberg_issued: '2012-02-12'
 gutenberg_type: Text
 identifiers:
